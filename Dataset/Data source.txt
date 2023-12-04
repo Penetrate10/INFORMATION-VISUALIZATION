@@ -1,0 +1,1 @@
+Data gathered from https://www.kaggle.com/datasets/sanketrai/twitter-mbti-dataset/data
